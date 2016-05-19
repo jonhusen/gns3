@@ -32,6 +32,12 @@
             "md5sum": "ddbaf74274822b50fa9670e10c75b08f",
             "filesize": 82053028
         }
+        {
+            "filename": "c3745-adventerprisek9-mz.124-15.T10.bin",
+            "version": "124-15.T10",
+            "md5sum": "DB52266572FEA8B0B51CF4C8E11A7398",
+            "filesize": 98075616
+        }
     ],
     "versions": [
         {
@@ -39,6 +45,13 @@
             "idlepc": "0x60aa1da0",
             "images": {
                 "image": "c3745-adventerprisek9-mz.124-25d.image"
+            }
+        }
+        {
+            "name": "124-15.T10",
+            "idlepc": "0x60aa1da0",
+            "images": {
+                "image": "c3745-adventerprisek9-mz.124-15.T10.bin"
             }
         }
     ]

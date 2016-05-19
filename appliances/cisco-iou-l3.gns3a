@@ -29,6 +29,18 @@
             "md5sum": "2eabae17778316c49cbc80e8e81262f9",
             "filesize": 152677848
         }
+        {
+            "filename": "i86bi-linux-l3-adventerprisek9-15.2.4M1.bin",
+            "version": "15.2.4M1",
+            "md5sum": "FB27323F9CDE95C401754149D54A0E57",
+            "filesize": 131580216
+        }
+        {
+            "filename": "i86bi-linux-l3-adventerprisek9-12.4.bin",
+            "version": "12.4",
+            "md5sum": "7874BC2D91403E1602CE0598CFCE3221",
+            "filesize": 93580556
+        }
     ],
     "versions": [
         {
@@ -41,6 +53,18 @@
             "name": "15.4.1T",
             "images": {
                 "image": "i86bi-linux-l3-adventerprisek9-15.4.1T.bin"
+            }
+        }
+        {
+            "name": "15.2.4M1",
+            "images": {
+                "image": "i86bi-linux-l3-adventerprisek9-15.2.4M1.bin"
+            }
+        }
+        {
+            "name": "12.4",
+            "images": {
+                "image": "i86bi-linux-l3-adventerprisek9-12.4.bin"
             }
         }
     ]

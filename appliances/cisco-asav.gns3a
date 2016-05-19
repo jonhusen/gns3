@@ -38,6 +38,13 @@
             "filesize": 160038912,
             "download_url": "https://virl.mediuscorp.com/my-account/"
         }
+        {
+            "filename": "asav941-200.qcow2",
+            "version": "9.4.1-200",
+            "md5sum": "5A1FA564591D79EC1FA860A0BA8C63D6",
+            "filesize": 155713536,
+            "download_url": "https://virl.mediuscorp.com/my-account/"
+        }
     ],
     "versions": [
         {
@@ -50,6 +57,12 @@
             "name": "9.5.1-201",
             "images": {
                 "hda_disk_image": "asav951-201.qcow2"
+            }
+        }
+        {
+            "name": "9.4.1-200",
+            "images": {
+                "hda_disk_image": "asav941-200.qcow2"
             }
         }
     ]
