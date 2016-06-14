@@ -37,7 +37,7 @@
             "md5sum": "ca071370278ecbd5dfdb1c5a4161571a",
             "filesize": 160038912,
             "download_url": "https://virl.mediuscorp.com/my-account/"
-        }
+        },
         {
             "filename": "asav941-200.qcow2",
             "version": "9.4.1-200",
@@ -58,7 +58,7 @@
             "images": {
                 "hda_disk_image": "asav951-201.qcow2"
             }
-        }
+        },
         {
             "name": "9.4.1-200",
             "images": {

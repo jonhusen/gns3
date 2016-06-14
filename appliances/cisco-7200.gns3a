@@ -25,13 +25,13 @@
             "version": "124-25.T5",
             "md5sum": "6b89d0d804e1f2bb5b8bda66b5692047",
             "filesize": 102345240
-        }
+        },
         {
             "filename": "c7200-adventerprisek9-mz.124-15.T10.bin",
             "version": "124-15.T10",
             "md5sum": "6D01ADE87235DA745140A1EE97A06E97",
             "filesize": 92004052
-        }
+        },
         {
             "filename": "c7200-adventerprisek9-mz.152-4.S3.bin",
             "version": "152-4.S3",
@@ -46,14 +46,14 @@
             "images": {
                 "image": "c7200-adventerprisek9-mz.124-24.T5.image"
             }
-        }
+        },
         {
             "name": "124-15.T10",
             "idlepc": "0x606df838",
             "images": {
                 "image": "c7200-adventerprisek9-mz.124-15.T10.bin"
             }
-        }
+        },
         {
             "name": "152-4.S3",
             "idlepc": "0x606df838",

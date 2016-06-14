@@ -23,7 +23,7 @@
             "version": "124-15.T14",
             "md5sum": "daed99f508fd42dbaacf711e560643ed",
             "filesize": 90181268
-        }
+        },
         {
             "filename": "c3660-jk9o3s-mz.124-15.T10.bin",
             "version": "124-15.T10",
@@ -38,7 +38,7 @@
             "images": {
                 "image": "c3660-a3jk9s-mz.124-15.T14.image"
             }
-        }
+        },
         {
             "name": "124-15.T10",
             "idlepc": "0x6076e0b4",
