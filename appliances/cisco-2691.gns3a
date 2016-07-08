@@ -27,13 +27,13 @@
         {
             "filename": "c2691-adventerprisek9-mz.124-15.T10.bin",
             "version": "124-15.T10",
-            "md5sum": "D4EC952C7679DEB6D335067E472D4F51",
+            "md5sum": "d4ec952c7679deb6d335067e472d4f51",
             "filesize": 96004000
         },
         {
             "filename": "c2691-adventerprisek9-mz.124-25d.bin",
             "version": "124-25d",
-            "md5sum": "8DC8486065DE63883F29C85825A2F18C",
+            "md5sum": "8dc8486065de63883f29c85825a2f18c",
             "filesize": 80386516
         }
     ],

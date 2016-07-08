@@ -29,13 +29,13 @@
         {
             "filename": "c7200-adventerprisek9-mz.124-15.T10.bin",
             "version": "124-15.T10",
-            "md5sum": "6D01ADE87235DA745140A1EE97A06E97",
+            "md5sum": "6d01ade87235da745140a1ee97a06e97",
             "filesize": 92004052
         },
         {
             "filename": "c7200-adventerprisek9-mz.152-4.S3.bin",
             "version": "152-4.S3",
-            "md5sum": "B06BF2D589C5E3AC1173C152BFAE41EE",
+            "md5sum": "b06bf2d589c5e3ac1173c152bfae41ee",
             "filesize": 93436432
         }
     ],
